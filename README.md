@@ -23,3 +23,15 @@ LoginService is a Spring Boot application that provides REST APIs for basic user
 ## Security
 
 The application uses Spring Security to protect the endpoints and handle user authentication and authorization. Passwords are securely hashed and stored in the database to ensure user data privacy.
+
+### Reference Documentation
+
+For further reference, please consider the following sections:
+
+- [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
+- [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/3.1.1/maven-plugin/reference/html/)
+- [Create an OCI image](https://docs.spring.io/spring-boot/docs/3.1.1/maven-plugin/reference/html/#build-image)
+- [Spring Web](https://docs.spring.io/spring-boot/docs/3.1.1/reference/htmlsingle/#web)
+- [Spring Data JPA](https://docs.spring.io/spring-boot/docs/3.1.1/reference/htmlsingle/#data.sql.jpa-and-spring-data)
+- [Spring Security](https://docs.spring.io/spring-boot/docs/3.1.1/reference/htmlsingle/#web.security)
+- [Java Mail Sender](https://docs.spring.io/spring-boot/docs/3.1.1/reference/htmlsingle/#io.email)
